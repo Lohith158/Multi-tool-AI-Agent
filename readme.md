@@ -130,6 +130,6 @@ The agent automatically selects the right tool based on the nature of the questi
 ## Author
 
 Lohith G  
-AI Engineer (in progress)  
+AI/ML Student  
 [GitHub](https://github.com/Lohith158)  
 [LinkedIn](https://linkedin.com/in/lohith-g-58680b2a6/)
